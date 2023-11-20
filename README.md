@@ -26,6 +26,7 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
+# Assembly of polar 3d printer:
 ![image](https://github.com/Munimadhuriganji/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138849444/8fed3f75-2192-4000-817a-87167d4d40d2)
 
 # Y-Axis Base :
@@ -68,6 +69,7 @@ melts and extrudes the filament to create the printed object.
 material that is used to create the printed object.
 
 ## output :
+# playing with axes:
 ![image](https://github.com/Munimadhuriganji/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138849444/766184f3-b216-4ca2-82e5-73da1f99f186)
 
 ### Name:GANJI MUNI MADHURI
